@@ -13,7 +13,8 @@
 - and, more Python in the form of a mealplanner project
 
 
-I'm haven't been a big social media user in the past but am looking to improve my networking skills. Thus, I'm reachable at:
+I'm haven't been a big social media user in the past but am looking to improve my networking skills. 
+Thus, I'm reachable at:
 - Twitter: @andrewmckean_
 - LinkedIn: /andrewmckean-
 <!---
