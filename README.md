@@ -1,10 +1,14 @@
- 👋 Hi, I’m @AndrewMcKean
+ 👋 Hi, I’m @AndrewMcKean. I'm currently in the middle of a career switch from Nursing to software engineering, a big switch! 
  
- 👀 I’m interested in ... exploring bigger code  repository's than the mostly simple things I've worked on so far at university.
+ 🌱 I’m currently studying Computing and IT with The Open University on the software engineering pathway and trying to use spare time
+ to dive deeper into code and implement what I've learned in practical ways. 
+ 
+ 👀 I’m particularly interested in exploring bigger code repository's than the mostly simple things I've worked on so far at university and would love
+ to use GitHub to find some open source projects which are healthcare oriented in nature allowing me to combine my previous experience with what I'm learning
+ presently.
 
-🌱 I’m currently learning ... Currently studying Computing and IT with The Open University on the software engineering pathway. 
 
-I'm reachable at:
+I'm haven't been a big social media user in the past but am looking to improve my networking skills. Thus, I'm reachable at:
 - Twitter: @andrewmckean_
 - LinkedIn: /andrewmckean-
 <!---
