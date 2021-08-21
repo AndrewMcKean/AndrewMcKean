@@ -8,9 +8,9 @@
  presently.
  
  ⚡I'm currently in summer break from uni and I'm looking to learn:
-      - Linux
-      - GitHub
-      - and, more Python in the form of a mealplanner project
+ - Linux
+- GitHub
+- and, more Python in the form of a mealplanner project
 
 
 I'm haven't been a big social media user in the past but am looking to improve my networking skills. Thus, I'm reachable at:
