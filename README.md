@@ -6,6 +6,11 @@
  👀 I’m particularly interested in exploring bigger code repository's than the mostly simple things I've worked on so far at university and would love
  to use GitHub to find some open source projects which are healthcare oriented in nature allowing me to combine my previous experience with what I'm learning
  presently.
+ 
+ ⚡I'm currently in summer break from uni and I'm looking to learn:
+      - Linux
+      - GitHub
+      - and, more Python in the form of a mealplanner project
 
 
 I'm haven't been a big social media user in the past but am looking to improve my networking skills. Thus, I'm reachable at:
