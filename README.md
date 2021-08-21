@@ -13,11 +13,11 @@
 - and, more Python in the form of a mealplanner project
 
 
-I'm haven't been a big social media user in the past but am looking to improve my networking skills. 
+I haven't been a big social media user in the past but am looking to use it more as a networking tool. 
 
 Thus, I'm reachable at:
 - Twitter: @andrewmckean_
-- LinkedIn: /andrewmckean-
+- LinkedIn: /andrewmckean-    /workinprogress
 <!---
 AndrewMcKean/AndrewMcKean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
