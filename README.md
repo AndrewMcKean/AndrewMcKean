@@ -15,7 +15,7 @@
 
 I haven't been a big social media user in the past but am looking to use it more as a networking tool. 
 
-Thus, I'm reachable at:
+With that in mind I'm reachable at:
 - Twitter: @andrewmckean_
 - (WIP)LinkedIn: /andrewmckean-    
 <!---
