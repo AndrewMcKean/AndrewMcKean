@@ -7,10 +7,9 @@
  to use GitHub to find some open source projects which are healthcare oriented in nature allowing me to combine my previous experience with what I'm learning
  presently.
  
- ⚡I'm currently in summer break from uni and I'm looking to learn:
- - Linux
-- GitHub
-- and, more Python in the form of a mealplanner project
+ ⚡I'm currently working on:
+ - JavaScript, with React & React Native
+- and, Python
 
 
 I haven't been a big social media user in the past but am looking to use it more as a networking tool. 
