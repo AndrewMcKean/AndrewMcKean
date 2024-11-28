@@ -1,6 +1,6 @@
  👋 Hi, I’m @AndrewMcKean. I'm currently in the middle of a career switch from Nursing to software engineering, a big switch! 
  
- 🌱 I've been working for the last 2 years as a React Native Developer for a small, health technology company. Therapy Box.
+ 🌱 I've been working for the last 2 years as a React Native Developer for a small, health technology company where we create, primarily, AAC applications.
  
  👀 I’m interested in using GitHub to find some open source projects which are healthcare oriented to sharpen my skills in my spare time, though I haven't done so as yet.
  
