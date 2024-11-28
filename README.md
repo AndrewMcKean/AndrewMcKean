@@ -1,15 +1,18 @@
  👋 Hi, I’m @AndrewMcKean. I'm currently in the middle of a career switch from Nursing to software engineering, a big switch! 
  
- 🌱 I’m currently studying Computing and IT with The Open University on the software engineering pathway and trying to use spare time
- to dive deeper into code and implement what I've learned in practical ways. 
+ 🌱 I've been working for the last 2 years as a React Native Developer for a small, health technology company. Therapy Box.
  
- 👀 I’m particularly interested in exploring bigger code repository's than the mostly simple things I've worked on so far at university and would love
- to use GitHub to find some open source projects which are healthcare oriented in nature allowing me to combine my previous experience with what I'm learning
- presently.
+ 👀 I’m interested in using GitHub to find some open source projects which are healthcare oriented to sharpen my skills in my spare time, though I haven't done so as yet.
  
- ⚡I'm currently working on:
- - JavaScript, with React & React Native
-- and, Python
+ ⚡I'm currently working with:
+ - TypeScript, with React & React Native
+ - Swift & Java, for native modules in iOS React Native projects
+ - and, Python for scripting
+
+ 💭 I'm currently learning:
+ - Backend development with boot.dev
+ - Python with boot.dev
+ - GO with boot.dev
 
 
 I haven't been a big social media user in the past but am looking to use it more as a networking tool. 
